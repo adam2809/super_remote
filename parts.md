@@ -1,0 +1,3 @@
+- nice tacts https://botland.com.pl/tact-switch/10252-tact-switch-12x12mm-7mm-tht-4pin-kwadrat-zolty-10-sztuk-5904422376550.html
+- enkoder https://botland.com.pl/enkodery/6903-enkoder-z-przyciskiem-20-impulsow-12mm-ec11-pionowy-5szt-5903351245425.html (20 impulsow) albo taki  https://botland.com.pl/enkodery/6909-enkoder-z-przyciskiem-24-impulsy-12mm-ec12-pionowy-5szt-5903351245432.html (24 impulsy)
+- nawet lepszy https://pl.aliexpress.com/item/32602836921.html?gatewayAdapt=glo2pol i fajna nakładka https://www.reddit.com/r/ErgoMechKeyboards/comments/174mhqa/made_a_low_profile_ec12_encoder_knob_with_a_skirt/ zmawiam z mouser https://www.mouser.pl/ProductDetail/Alps-Alpine/EC12E1220301?qs=vrbHPQ%2FMREheAaIS%252B1GULw%3D%3D
